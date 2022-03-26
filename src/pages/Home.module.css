@@ -1,0 +1,31 @@
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mrInput {
+  margin-left: 12px !important;
+}
+
+.results {
+  display: flex;
+  align-items: flex-end;
+  margin-left: 12px;
+}
+
+.page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards {
+  margin: 10px auto;
+}
